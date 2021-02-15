@@ -1,3 +1,4 @@
 # Java-Codes
 
-1. Basic Calculator in java
+1. Basic Calculator in Java
+2. Arrays in Java
