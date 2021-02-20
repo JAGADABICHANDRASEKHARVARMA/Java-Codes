@@ -1,5 +1,15 @@
 /* Method Overloading is defined as when a class has same method names but different parameters. */
 
+/*
+
+Different ways of doing overloading methods
+Method overloading can be done by changing: 
+The number of parameters in two methods.
+The data types of the parameters of methods.
+The Order of the parameters of methods.
+
+*/
+
 class casio{
 	public void add(int i, int j) 
 	{
