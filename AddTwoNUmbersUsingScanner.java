@@ -1,4 +1,5 @@
-/*Here by using Scanner it will capture the input values at the end. we can give what ever values after running the code.*/
+/*In the below program by using Scanner it will capture the input values at the end. we can give what ever values after running the code.*/
+
 
 import java.util.Scanner;
 
