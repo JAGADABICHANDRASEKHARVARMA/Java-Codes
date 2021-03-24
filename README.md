@@ -11,5 +11,6 @@
 9. Getting user input using Scanner and nextLine() for String input are running the code. You can find the code in "GettingUserInput.java".
 10. How to initialise the variables in Java, refer the code in "Variables.java". 
 11. Array 1D demo in ArrayDemo1.java
+12. 2D and Jagged Array demo in ArrayDemo2.java
 
 # follow @java_pirates on Instagram for more concepts of Java 
