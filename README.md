@@ -16,5 +16,6 @@
 14. Variable length Argument example in Java. Sample code in "VarargsDemo.java".
 15. Multilevel Inheritance demo in "InheritanceDemo.java".
 16. How Super method works in the concept of Inheritence. The example code is in "SuperDemo.java".
+17. Dynamic Method Dispatch in the concept of Polymorphism. the code is in OverridingDemo.java.
 
 # follow @java_pirates on Instagram for more concepts of Java 
