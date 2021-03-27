@@ -14,6 +14,7 @@
 12. 2D and Jagged Array demo in "ArrayDemo2.java".
 13. How Enchanced for loop works in Java. Example in "EnhancedForInArrays.java".
 14. Variable length Argument example in Java. Sample code in "VarargsDemo.java".
-15. Multilevel Inheritance demo in "InheritanceDemo.java" .
+15. Multilevel Inheritance demo in "InheritanceDemo.java".
+16. How Super method works in the concept of Inheritence. The example code is in "SuperDemo.java".
 
 # follow @java_pirates on Instagram for more concepts of Java 
