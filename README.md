@@ -18,5 +18,6 @@
 16. How Super method works in the concept of Inheritence. The example code is in "SuperDemo.java".
 17. Dynamic Method Dispatch in the concept of Polymorphism. the code is in OverridingDemo.java.
 18. Encapsulation model code and how to bind the data to the methods and how to use setters and getters. sample code is in "EncapsulationDemo.java".
+19. example problem on encapsulation. code is in "EncapsulationDemo2.java".
 
 # follow @java_pirates on Instagram for more concepts of Java 
