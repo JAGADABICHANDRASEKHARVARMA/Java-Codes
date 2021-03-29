@@ -19,6 +19,6 @@
 17. Dynamic Method Dispatch in the concept of Polymorphism. the code is in OverridingDemo.java.
 18. Encapsulation model code and how to bind the data to the methods and how to use setters and getters. sample code is in "EncapsulationDemo.java".
 19. example problem on encapsulation. code is in "EncapsulationDemo2.java".
-20. Wrapper Class demo and how to use Auto Boxing , Auto Unboxing and Boxing and Unboxing / Wrapping. Sample code is in "WrapperClassDemo.java".
+20. Wrapper Class demo and how to use Auto Boxing , Auto Unboxing and Boxing and Unboxing / Wrapping. How to use "praseInt()" to get the intger value of a string. Sample code is in "WrapperClassDemo.java".
 
 # follow @java_pirates on Instagram for more concepts of Java 
