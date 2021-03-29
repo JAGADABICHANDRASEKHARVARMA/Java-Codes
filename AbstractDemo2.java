@@ -2,7 +2,7 @@
 
 class printer
 {
-    public void show(Number i)
+    public void show(Number i)   // Number is super class of Integre, float, double, etc
     {
         System.out.println(i);
     }
