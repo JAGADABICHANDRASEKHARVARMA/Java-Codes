@@ -11,6 +11,11 @@ public class WrapperClassDemo {
         Integer value = i; // AutoBoxing - AutoWrapping
 
         int k = i; // AutoUnBoxing - AutoUnWrapping
+        
+         String str = "123";
+
+        int n = Integer.parseInt(str);
+        System.out.println(n);
 
 
 
