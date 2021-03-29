@@ -21,5 +21,6 @@
 19. example problem on encapsulation. code is in "EncapsulationDemo2.java".
 20. Wrapper Class demo and how to use Auto Boxing , Auto Unboxing and Boxing and Unboxing / Wrapping. How to use "praseInt()" to get the intger value of a string. Sample code is in "WrapperClassDemo.java".
 21. Abstract class usage and how to use a methods. Sample code is in "AbstractDemo.java".
+22. How to use super class and avoid using more methods instead of using more methods we can use abstract and sample code is in "AbstractDemo2.java".
 
 # follow @java_pirates on Instagram for more concepts of Java 
