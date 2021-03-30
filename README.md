@@ -23,6 +23,7 @@
 21. Abstract class usage and how to use a methods. Sample code is in "AbstractDemo.java".
 22. How to use super class and avoid using more methods instead of using more methods we can use abstract and sample code is in "AbstractDemo2.java".
 23. how to create Interface and how to use implements and how to achieve the things in interface. sample code is in "InterfaceDemo.java".
+24. How to create a object in interface using interface as a reference and implemnents as object. sample code is in "InterfaceDemo2.java"
  
 
 # follow @java_pirates on Instagram for more concepts of Java 
