@@ -27,6 +27,7 @@
 25. Anonymous Inner Class sample code is availabe in "AnonymousInnerClassDemo.java".
 26. Functional Interface and using lambda expression in java. sample code is in "FunctionalInterfaceDemo.java".
 27. Default method in interface and how it can be overridden and sample code is in "DefaultMethodDemo.java".
+28. How to solve ambigity issue in Multiple inheritance in Interface. Sample code is in "IssueWithMultipleInheritanceInInterface.java".
  
 
 # follow @java_pirates on Instagram for more concepts of Java 
