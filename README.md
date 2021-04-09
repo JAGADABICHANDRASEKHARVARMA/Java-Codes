@@ -29,6 +29,7 @@
 27. Default method in interface and how it can be overridden and sample code is in "DefaultMethodDemo.java".
 28. How to solve ambigity issue in Multiple inheritance in Interface. Sample code is in "IssueWithMultipleInheritanceInInterface.java".
 29. Unchecked exceptio handling using try catch. sample code is in "ExceptionDemo.java".
+30. Multiple Catch Exception. We can use multiple catch and at the last it should be exception e. sample code is in  "MultipleCatchException.java".
  
 
 # follow @java_pirates on Instagram for more concepts of Java 
