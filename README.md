@@ -31,7 +31,7 @@
 29. Unchecked exceptio handling using try catch. sample code is in "ExceptionDemo.java".
 30. Multiple Catch Exception. We can use multiple catch and at the last it should be exception e. sample code is in  "MultipleCatchException.java".
 31. Without using try, catch and finally how to throw the exception using only try block with different syntax. Sample code is in "UserInputThrowException.java".
-32. 
+32. How to give user Defined exception in java. sample code is in "UserDefinedException.java".
  
 
 # follow @java_pirates on Instagram for more concepts of Java 
